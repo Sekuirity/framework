@@ -1,0 +1,22 @@
+Contract Scenario # 
+---------------------------
+1. We need to prepare coffee
+	1.1.	variants can be chosen as pre-mix 
+			1.1.1.	Additional topup can be added on request
+
+
+2.	Types of coffee as per market demand >> 
+
+Coffee Type 	Ingrediants
+----------------------------------------
+Americano 
+				water, espresso
+Latte 
+				milk foam, milk, 
+Coffee Breve
+				milk foam, half milk, half cream, espresso
+Cafe AU Lait 
+				
+Vienna Coffee 	
+				whipped cream, espresso
+
